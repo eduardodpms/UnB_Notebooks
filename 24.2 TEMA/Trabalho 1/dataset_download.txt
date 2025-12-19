@@ -1,0 +1,5 @@
+Website (Select V1 dataset):
+https://theailab.dk/plant-seedlings-dataset/
+
+Direct Link:
+https://theailab.dk/?sdm_process_download=1&download_id=4778
